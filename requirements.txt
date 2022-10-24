@@ -1,0 +1,18 @@
+tensorflow
+dvc
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+scipy
+mlflow
+streamlit
+kaggle
+-e .
