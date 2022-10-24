@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/Mask_Detection_CNN/mlruns/0/7e38278710dc40ad88f4b360ab7b5062/artifacts
+end_time: 1666627751035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e38278710dc40ad88f4b360ab7b5062
+run_name: rebellious-slug-963
+run_uuid: 7e38278710dc40ad88f4b360ab7b5062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666627720745
+status: 3
+tags: []
+user_id: vijit

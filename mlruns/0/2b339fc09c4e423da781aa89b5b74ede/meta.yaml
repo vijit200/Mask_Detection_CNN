@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/Mask_Detection_CNN/mlruns/0/2b339fc09c4e423da781aa89b5b74ede/artifacts
+end_time: 1666624524359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b339fc09c4e423da781aa89b5b74ede
+run_name: legendary-frog-790
+run_uuid: 2b339fc09c4e423da781aa89b5b74ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666624494973
+status: 3
+tags: []
+user_id: vijit
