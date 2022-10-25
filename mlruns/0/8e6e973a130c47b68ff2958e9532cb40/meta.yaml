@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/Mask_Detection_CNN/mlruns/0/8e6e973a130c47b68ff2958e9532cb40/artifacts
+end_time: 1666679442429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e6e973a130c47b68ff2958e9532cb40
+run_name: overjoyed-newt-645
+run_uuid: 8e6e973a130c47b68ff2958e9532cb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666679406851
+status: 3
+tags: []
+user_id: vijit

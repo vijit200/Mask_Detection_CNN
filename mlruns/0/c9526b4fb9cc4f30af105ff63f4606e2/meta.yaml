@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/Mask_Detection_CNN/mlruns/0/c9526b4fb9cc4f30af105ff63f4606e2/artifacts
+end_time: 1666684321939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9526b4fb9cc4f30af105ff63f4606e2
+run_name: sincere-worm-33
+run_uuid: c9526b4fb9cc4f30af105ff63f4606e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666684296024
+status: 3
+tags: []
+user_id: vijit

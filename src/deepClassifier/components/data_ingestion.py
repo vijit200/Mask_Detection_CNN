@@ -8,7 +8,7 @@ class DataIngestion:
         
 
     def _get_updated_list_of_files(self, list_of_files):
-        return [f for f in list_of_files if f.endswith(".png")and ("mask_weared_incorrect" in f or "with_mask" in f or "without_mask" in f)]
+        return [f for f in list_of_files if f.endswith(".jpg")and ( "with_mask" in f or "without_mask" in f)]
 
     def _preprocess(self, zf: ZipFile, f: str, working_dir: str):
         target_filepath = os.path.join(working_dir, f)

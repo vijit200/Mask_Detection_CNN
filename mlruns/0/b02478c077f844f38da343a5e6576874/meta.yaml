@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/Mask_Detection_CNN/mlruns/0/b02478c077f844f38da343a5e6576874/artifacts
+end_time: 1666677845450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b02478c077f844f38da343a5e6576874
+run_name: gentle-chimp-699
+run_uuid: b02478c077f844f38da343a5e6576874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666677804390
+status: 3
+tags: []
+user_id: vijit
