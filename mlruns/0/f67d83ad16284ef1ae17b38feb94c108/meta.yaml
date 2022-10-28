@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vijit/Mask_Detection_CNN/mlruns/0/f67d83ad16284ef1ae17b38feb94c108/artifacts
+end_time: 1666704546381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f67d83ad16284ef1ae17b38feb94c108
+run_name: legendary-calf-444
+run_uuid: f67d83ad16284ef1ae17b38feb94c108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666704523950
+status: 3
+tags: []
+user_id: unknown
